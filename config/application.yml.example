@@ -1,0 +1,8 @@
+# Add configuration values here, as shown below.
+
+AIRTABLE_APP_ID: -----
+AIRTABLE_API_KEY: -----
+
+# production:
+#   AIRTABLE_APP_ID: -----
+#   AIRTABLE_API_KEY: -----
